@@ -1,0 +1,3 @@
+[submodule "computer_parts_web_frontend"]
+	path = computer_parts_web_frontend
+	url = https://github.com/calebyxu/computer_parts_web_frontend.git
