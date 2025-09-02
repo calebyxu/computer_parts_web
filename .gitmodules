@@ -1,3 +1,6 @@
 [submodule "resume_web"]
 	path = resume_web
 	url = https://github.com/calebyxu/resume_web.git
+[submodule "computer_parts_frontend"]
+	path = computer_parts_frontend
+	url = https://github.com/calebyxu/computer_parts_frontend.git
