@@ -1,3 +1,6 @@
 [submodule "computer_parts_frontend"]
 	path = computer_parts_frontend
 	url = https://github.com/calebyxu/computer_parts_frontend.git
+[submodule "computer_parts_backend"]
+	path = computer_parts_backend
+	url = https://github.com/calebyxu/computer_parts_backend.git
